@@ -3,7 +3,7 @@
 
 // Declare app level module which depends on filters, and services
 angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.directives', 'myApp.controllers']).
-  config(['$routeProvider', function($routeProvider) {
+  config(['$routeProvider',  '$locationProvider', function($routeProvider) {
     $routeProvider.when('/sponsor', {templateUrl: 'partials/sponsor.html', controller: 'SponsorController'});
     $routeProvider.when('/home', {templateUrl: 'partials/home.html', controller: 'HomeController'});
     $routeProvider.when('/about', {templateUrl: 'partials/about.html', controller: 'AboutController'});
