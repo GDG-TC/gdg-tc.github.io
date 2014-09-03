@@ -12,4 +12,6 @@ angular.module('myApp', ['myApp.filters', 'myApp.services', 'myApp.directives', 
     $routeProvider.when('/devfest', {templateUrl: 'partials/devfest.html', controller: 'DevfestController'});
     $routeProvider.when('/view1', {templateUrl: 'partials/partial1.html', controller: 'MyCtrl1'});
     $routeProvider.otherwise({redirectTo: '/home'});
+
+    $locationProvider.html5Mode(true);
   }]);
