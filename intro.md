@@ -9,4 +9,4 @@
 - http://dev.cledwyn.com/random-picker-polymer/
 
 ## Wrapup Links
-- [Exit Survey](https://docs.google.com/forms/d/1PhoumfFyizwWiYFjMggeL4CQc6QJC2o7YxRkVvUCBlA/edit) - http://link.gdgtc.com/survey
+- [Exit Survey](https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform) - bit.ly/gdgsurvey
