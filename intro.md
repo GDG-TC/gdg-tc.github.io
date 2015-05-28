@@ -2,6 +2,8 @@
 
 ## Intro Links
 - https://developers.google.com/groups/
+- https://developers.google.com/experts/
+- 
 - http://gdgtc.com
 - http://meetup.com/gdg-tc
 - http://devfest.mn
