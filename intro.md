@@ -2,6 +2,7 @@
 
 ## Intro Links
 - https://developers.google.com/groups/
+- https://developers.google.com/groups/pulse/United-States
 - https://developers.google.com/experts/
 - http://gdgtc.com
 - http://meetup.com/gdg-tc
