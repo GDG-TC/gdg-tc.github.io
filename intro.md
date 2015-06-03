@@ -6,9 +6,7 @@
 - https://developers.google.com/experts/
 - http://gdgtc.com
 - http://meetup.com/gdg-tc
-- http://devfest.mn
 - We need YOU - Volunteer to Speak
-- http://dev.cledwyn.com/random-picker-polymer/
 
 ## Wrapup Links
 - [Exit Survey](https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform) - bit.ly/gdgsurvey
